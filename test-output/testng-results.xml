@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-16T10:43:35 IST" name="Suite" finished-at="2024-07-16T10:43:35 IST" duration-ms="74">
+    <groups>
+    </groups>
+    <test started-at="2024-07-16T10:43:35 IST" name="Test" finished-at="2024-07-16T10:43:35 IST" duration-ms="74">
+      <class name="Test.TestNG">
+        <test-method signature="Demo()[pri:0, instance:Test.TestNG@50378a4]" started-at="2024-07-16T10:43:35 IST" name="Demo" finished-at="2024-07-16T10:43:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+      </class> <!-- Test.TestNG -->
+      <class name="Test.Battle">
+        <test-method signature="Actressacting()[pri:0, instance:Test.Battle@15888343]" started-at="2024-07-16T10:43:35 IST" name="Actressacting" finished-at="2024-07-16T10:43:35 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Actressacting -->
+        <test-method signature="Actoracting()[pri:3, instance:Test.Battle@15888343]" started-at="2024-07-16T10:43:35 IST" name="Actoracting" finished-at="2024-07-16T10:43:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Actoracting -->
+      </class> <!-- Test.Battle -->
+      <class name="Test.Stalingrad">
+        <test-method signature="blitzcreague()[pri:0, instance:Test.Stalingrad@79207381]" started-at="2024-07-16T10:43:35 IST" name="blitzcreague" finished-at="2024-07-16T10:43:35 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blitzcreague -->
+        <test-method signature="leningrad()[pri:0, instance:Test.Stalingrad@79207381]" started-at="2024-07-16T10:43:35 IST" name="leningrad" finished-at="2024-07-16T10:43:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leningrad -->
+      </class> <!-- Test.Stalingrad -->
+      <class name="Test.NewTest">
+        <test-method signature="f()[pri:0, instance:Test.NewTest@5884a914]" started-at="2024-07-16T10:43:35 IST" name="f" finished-at="2024-07-16T10:43:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Test.NewTest -->
+      <class name="Test.WW1">
+        <test-method signature="Demo1()[pri:0, instance:Test.WW1@60f00693]" started-at="2024-07-16T10:43:35 IST" name="Demo1" finished-at="2024-07-16T10:43:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo1 -->
+        <test-method signature="Actual()[pri:1, instance:Test.WW1@60f00693]" started-at="2024-07-16T10:43:35 IST" name="Actual" finished-at="2024-07-16T10:43:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Actual -->
+      </class> <!-- Test.WW1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
